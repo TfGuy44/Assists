@@ -1,3 +1,5 @@
+// https://forum.processing.org/two/discussion/25933/help-deleting-shape
+
 String decode = " a c bif e d hjg k m lsp o n rtq              w  u x v   z y";
  
 class Bchar {
